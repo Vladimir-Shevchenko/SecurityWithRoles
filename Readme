@@ -1,0 +1,11 @@
+Authentifications and authorization
+Аутентификация - проверка логина пароля на входе, впускать не впускать, враг или чужой.
+Авторизация - проверка прав, разрешать посещать определенный страницы или нет.
+
+Page: localhost:6863/hi    - for all
+Page: localhost:6863/user   - for user and admin
+Page: localhost:6863/admin   - only for  admin
+
+User: Mike pass2
+Admin: John pass
+
